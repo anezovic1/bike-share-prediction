@@ -14,12 +14,8 @@ https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset
 
 ## Results
 
-<p style="font-size: 10px;">
-    <h4>K-Means Clustering Visualization</h4>
-    <img src="./img/kmeans.png" alt="kmeans" style="display: inline;" width="300"/>
-</p>
-
-<p style="font-size: 10px;">
-    <h4>Visualizing DBSCAN Results</h4>
-    <img src="./img/dbscan.png" alt="kmeans" width="300"/>
+<p align="center">
+    <h4>The following plots illustrate the results of K-Means clustering and visual representations showcasing the outcomes of the DBSCAN algorithm.</h4>
+  <img src="./img/kmeans.png" alt="Image 1" width="300" style="margin-right: 10px;">
+  <img src="./img/dbscan.png" alt="Image 2" width="300" style="margin-right: 10px;">
 </p>
