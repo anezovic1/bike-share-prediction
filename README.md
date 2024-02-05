@@ -11,3 +11,15 @@ For the individual task, the DBSCAN algorithm was chosen. This algorithm belongs
 The dataset used for the project can be found at:
 
 https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset
+
+## Results
+
+<p style="font-size: 10px;">
+    <h4>K-Means Clustering Visualization</h4>
+    <img src="./img/kmeans.png" alt="kmeans" style="display: inline;" width="300"/>
+</p>
+
+<p style="font-size: 10px;">
+    <h4>Visualizing DBSCAN Results</h4>
+    <img src="./img/dbscan.png" alt="kmeans" width="300"/>
+</p>
